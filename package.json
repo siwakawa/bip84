@@ -21,9 +21,9 @@
   "author": "Anderson Juhasc",
   "license": "ISC",
   "dependencies": {
-    "bip39": "^3.0.1",
-    "bitcoinjs-lib": "^5.0.3",
-    "bs58check": "^2.1.2"
+    "bip39": "https://github.com/ferrumnet/bip39",
+    "bitcoinjs-lib": "https://github.com/siwakawa/bitcoinjs-lib",
+    "bs58check": "https://github.com/ferrumnet/bs58check"
   },
   "devDependencies": {
     "jest": "^24.9.0"
